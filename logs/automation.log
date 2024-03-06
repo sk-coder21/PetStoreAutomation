@@ -1,0 +1,25 @@
+15:32:45.621 [main] INFO  api.tests.UserTests -       creatings user    
+15:32:48.362 [main] INFO  api.tests.UserTests -       user created    
+15:32:48.400 [main] INFO  api.tests.UserTests -       reading user info    
+15:32:49.049 [main] INFO  api.tests.UserTests -       user info displayed    
+15:32:49.054 [main] INFO  api.tests.UserTests -       updaing user info    
+14:57:01.703 [main] INFO  api.tests.UserTests2 -       creatings user    
+14:57:04.827 [main] INFO  api.tests.UserTests2 -       user created    
+14:57:04.855 [main] INFO  api.tests.UserTests2 -       reading user info    
+14:57:05.402 [main] INFO  api.tests.UserTests2 -       user info displayed    
+14:57:05.408 [main] INFO  api.tests.UserTests2 -       updaing user info    
+15:26:14.838 [main] INFO  api.tests.UserTests -       creatings user    
+15:26:17.480 [main] INFO  api.tests.UserTests -       user created    
+15:26:17.484 [main] INFO  api.tests.UserTests -       reading user info    
+15:26:17.958 [main] INFO  api.tests.UserTests -       user info displayed    
+15:26:17.960 [main] INFO  api.tests.UserTests -       updaing user info    
+15:33:35.317 [main] INFO  api.tests.UserTests -       creatings user    
+15:33:38.255 [main] INFO  api.tests.UserTests -       user created    
+15:33:38.261 [main] INFO  api.tests.UserTests -       reading user info    
+15:33:39.080 [main] INFO  api.tests.UserTests -       user info displayed    
+15:33:39.082 [main] INFO  api.tests.UserTests -       updaing user info    
+15:37:42.173 [main] INFO  api.tests.UserTests -       creatings user    
+15:37:44.834 [main] INFO  api.tests.UserTests -       user created    
+15:37:44.837 [main] INFO  api.tests.UserTests -       reading user info    
+15:37:45.633 [main] INFO  api.tests.UserTests -       user info displayed    
+15:37:45.635 [main] INFO  api.tests.UserTests -       updaing user info    
